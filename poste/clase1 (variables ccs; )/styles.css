@@ -1,0 +1,12 @@
+:root {
+    --color-arriba: #FF0000 /*para variables*/
+}
+
+.arriba {
+    background-color: var(--color-arriba); /*para llamar la varaible*/
+}
+
+/* flexbox:
+    - se hace con display: flex
+    - flex-direction: row es para ponerlo como renglon
+    - align-items: center es para mover 
